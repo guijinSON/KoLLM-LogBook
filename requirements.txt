@@ -1,0 +1,2 @@
+streamlit==1.27.2
+streamlit-scrollable-textbox==0.0.3
