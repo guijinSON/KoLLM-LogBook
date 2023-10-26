@@ -9,6 +9,7 @@
 
 ## Prompt Statistics 📄
 KoLLM-LogBook은 총 15개 분야에 대해 100개의 프롬프트로 구성되어 있습니다. 프롬프트의 구성은 아래 차트를 참고해주세요.
+<img src="https://github.com/guijinSON/KoLLM-LogBook/blob/main/assets/prompt_stats.png"  title="Prompt Distribution"/>
 
 ## Generation Configuration 📄
 모든 결과물은 [VLLM](https://github.com/vllm-project/vllm) 패키지와 아래 configuration 을 통해 생성되었습니다. 
