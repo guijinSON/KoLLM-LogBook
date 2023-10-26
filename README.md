@@ -34,7 +34,7 @@ This project is licensed under the MIT License. For more details, check out the 
 ## Special Thanks to 🙌
 
 - [Teknium1](https://github.com/teknium1) for the contribution to the opensource community and his amazing projects.
-- OneLineAI for supporting my works.
+- [OneLineAI](https://www.onelineai.com) for supporting my works.
 
 ## Contact 📫
 질문, 문의 등은 아래 메일로 부탁드립니다.
