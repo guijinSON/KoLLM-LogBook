@@ -1,38 +1,27 @@
-# LLM-Logbook 📘
+# KoLLM-LogBook 📘
 
-A detailed collection of reports capturing the responses of various LLMs to diverse prompts. Dive into each page and explore how every unique model and settings combination performs.
+**KoLLM-LogBook**은 Finance, Math, Medical, Programming, Creative Writing 등 15개 분야에서 100개의 프롬프트에 대한 다양한 언어 모델의 답변을 수록하고 있습니다. 
+다른 언어 모델들이 같은 질문에 어떠한 방식으로 답하는지 한눈에 보기 쉽게 비교하여, 모델의 한국어 생성 능력을 평가합니다.
 
-## About The Project 📄
+## 프로젝트 설명 📄
 
-**LLM-Logbook** serves as a collection of logs of observations, documenting the intricate behaviors, capabilities, and patterns of different LLMs. With a myriad of prompts, we seek to dissect their range, depth, and potential intricacies.
+**KoLLM-LogBook**은 [teknium](https://github.com/teknium1)의 [LLM-Logbook](https://github.com/teknium1/LLM-Logbook)의 한국어 버전으로, 100개의 프롬프트를 통해 언어 모델의 지식, 사고 능력, 창의력 등을 비교하고 있습니다. 
 
-## Structure 🗂
-
-- **Reports**: Individual reports for each model based on specific settings, offering insights into the model's reactions to various prompts.
-  
-- **Prompts**: These prompts span a spectrum, from straightforward queries to elaborate scenarios, painting a full picture of the model's capabilities.
+## 프롬프트 설명 📄
+KoLLM-LogBook은 총 15개 분야에 대해 100개의 프롬프트로 구성되어 있습니다. 프롬프트의 구성은 아래 차트를 참고해주세요.
 
 ## How to Navigate 🧭
 
 - Navigate to the github pages URL - https://teknium1.github.io/LLM-Logbook
 - Dive in and witness the diverse responses.
 
-## Contributing 🤝
-
-Open-source projects thrive on collaboration. Your contributions can shape the future of **LLM-Logbook**. Here's how you can contribute:
-
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some YourFeature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
 ## License 📝
 
 This project is licensed under the MIT License. For more details, check out the `LICENSE` file.
 
 ## Contact 📫
+질문, 문의 등은 아래 메일로 부탁드립니다.
+```
+spthsrbwls123@yonsei.ac.kr
+```
 
-Twitter - [Teknium1](https://x.com/Teknium1)
-
-Project Link: [https://github.com/yourusername/LLM-Logbook](https://github.com/yourusername/LLM-Logbook)
